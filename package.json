@@ -1,0 +1,19 @@
+{
+  "name": "kadena-style",
+  "version": "1.0.0",
+  "description": "Simple css style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahyakamil/kadena-style.git"
+  },
+  "author": "Ahya Kamil <ahyakamil@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahyakamil/kadena-style/issues"
+  },
+  "homepage": "https://github.com/ahyakamil/kadena-style#readme"
+}
